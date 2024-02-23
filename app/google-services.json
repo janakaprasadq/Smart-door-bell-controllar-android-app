@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "398969406303",
+    "firebase_url": "https://smart-door-bell-769bd-default-rtdb.firebaseio.com",
+    "project_id": "smart-door-bell-769bd",
+    "storage_bucket": "smart-door-bell-769bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398969406303:android:4978946799be57e894acea",
+        "android_client_info": {
+          "package_name": "com.example.camapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjpndEPf6cBN5v9xwsjwKoSfZoJgPomL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398969406303:android:f3dd28711d68c1a394acea",
+        "android_client_info": {
+          "package_name": "com.example.cameraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjpndEPf6cBN5v9xwsjwKoSfZoJgPomL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
